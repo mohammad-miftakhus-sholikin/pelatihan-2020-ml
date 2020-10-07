@@ -22,3 +22,5 @@ Langkah:
 8. Hasil untuk __Contoh2_2020__ann-sholikin.ows__:
    ![Gambar 6.](images/orange6.png)
    ![Gambar 7.](images/orange7.png)
+   ![Gambar 8.](images/orange8.png)
+   ![Gambar 9.](images/orange9.png)
