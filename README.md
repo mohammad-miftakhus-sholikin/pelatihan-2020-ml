@@ -6,7 +6,7 @@ Langkah:
 1. Download file di [sini](https://codeload.github.com/mohammad-miftakhus-sholikin/pelatihan-2020-10-utan-ml/zip/master)
 2. Ekstrak file
 3. Buka aplikasi Orange3
-4. Drag file Contoh1_2020__pca-sholikin.ows ke dalam aplikasi
+4. Drag file Contoh1_2020__pca-sholikin.ows ke dalam aplikasi untuk tutorial pertama. Sedangkan tutorial kedua gunakan __Contoh2_2020__ann-sholikin.ows__.
 
    ![Gambar 1.](images/orange1.png)
 
