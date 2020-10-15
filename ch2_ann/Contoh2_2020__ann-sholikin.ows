@@ -28,11 +28,11 @@
 	<annotations>
 		<arrow id="0" start="(732.0, 301.0)" end="(787.0, 264.0)" fill="#C1272D" />
 		<arrow id="1" start="(399.0, 352.0)" end="(320.0, 285.0)" fill="#C1272D" />
-		<text id="2" type="text/plain" rect="(30.0, 133.0, 448.0, 145.0)" font-family="Sans Serif" font-size="16">Masukkan data (pilih konsumsi kalsium dulu)
+		<text id="2" type="text/plain" rect="(30.0, 133.0, 464.0, 164.0)" font-family="Sans Serif" font-size="16">Masukkan data (pilih konsumsi kalsium dulu)
 
 Link data: 
 
-https://raw.githubusercontent.com/mohammad-miftakhus-sholikin/pelatihan-2020-10-utan-ml/master/Data_2020__Kebutuhan_kalsium_dan_fosfor.csv</text>
+https://raw.githubusercontent.com/mohammad-miftakhus-sholikin/pelatihan-2020-ml/master/ch2_ann/Data_2020__Kebutuhan_kalsium_dan_fosfor.csv</text>
 		<text id="3" type="text/plain" rect="(768.0, 207.0, 107.0, 58.0)" font-family="Sans Serif" font-size="16">Lihat korelasi</text>
 		<arrow id="4" start="(382.0, 642.0)" end="(302.0, 755.0)" fill="#C1272D" />
 		<arrow id="5" start="(387.0, 732.0000000000001)" end="(316.0, 772.0000000000002)" fill="#C1272D" />
@@ -131,8 +131,8 @@ bGWUiIwNY3Zfc3RyYXRpZmllZJSIjAduX2ZvbGRzlEsDjAluX3JlcGVhdHOUSwOMCnJlc2FtcGxp
 bmeUSwKMBHJvcGWURz+5mZmZmZmajAtzYW1wbGVfc2l6ZZRLC4wTc2F2ZWRXaWRnZXRHZW9tZXRy
 eZRDQgHZ0MsAAwAAAAABrwAAAMwAAAWEAAADKQAAAa8AAADoAAAFhAAAAykAAAAAAAAAAAeAAAAB
 rwAAAOgAAAWEAAADKZSMEnNodWZmbGVfc3RyYXRpZmllZJSIjAh1c2Vfcm9wZZSJjAtzY29yZV90
-YWJsZZR9lIwMc2hvd25fc2NvcmVzlI+UKIwCRjGUjARSTVNFlIwGUmVjYWxslIwJUHJlY2lzaW9u
-lIwDQVVDlIwCUjKUjANNQUWUjAJDQZSMA01TRZSQc4wLX192ZXJzaW9uX1+USwOMEGNvbnRleHRf
+YWJsZZR9lIwMc2hvd25fc2NvcmVzlI+UKIwDQVVDlIwCQ0GUjAJGMZSMA01TRZSMAlIylIwEUk1T
+RZSMCVByZWNpc2lvbpSMBlJlY2FsbJSMA01BRZSQc4wLX192ZXJzaW9uX1+USwOMEGNvbnRleHRf
 c2V0dGluZ3OUXZQojBVvcmFuZ2V3aWRnZXQuc2V0dGluZ3OUjAdDb250ZXh0lJOUKYGUfZQojAZ2
 YWx1ZXOUfZQojA9jbGFzc19zZWxlY3Rpb26UjBYoQXZlcmFnZSBvdmVyIGNsYXNzZXMplEr/////
 hpSMDGZvbGRfZmVhdHVyZZROSv7///+GlIwVZm9sZF9mZWF0dXJlX3NlbGVjdGVklIlK/v///4aU
@@ -150,8 +150,8 @@ hpRoN0sChpR0lGg6aEVLAYaUhZRoO2g8SwKGlIWUdWJldS4=
 		<properties node_id="6" format="literal">{'alpha_index': 0, 'auto_apply': True, 'autosend': True, 'controlAreaVisible': True, 'l2_ratio': 0.5, 'learner_name': '', 'reg_type': 0, 'ridge': False, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x02\x00\x00\x00\x00\x01\xf3\x00\x00\x00\x1b\x00\x00\x03{\x00\x00\x01\xa5\x00\x00\x01\xf3\x00\x00\x009\x00\x00\x03{\x00\x00\x01\xa5\x00\x00\x00\x00\x00\x00\x00\x00\x05V', '__version__': 1}</properties>
 		<properties node_id="7" format="pickle">gASV/AAAAAAAAAB9lCiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBNzYXZlZFdpZGdldEdlb21ldHJ5
 lENCAdnQywADAAAAAAJrAAABdAAABOoAAANvAAACawAAAZAAAATqAAADbwAAAAAAAAAAB4AAAAJr
-AAABkAAABOoAAANvlIwLc2NvcmVfdGFibGWUfZSMDHNob3duX3Njb3Jlc5SPlCiMAkYxlIwDTUFF
-lIwEUk1TRZSMBlJlY2FsbJSMCVByZWNpc2lvbpSMA0FVQ5SMAlIylIwCQ0GUjANNU0WUkHOMC19f
+AAABkAAABOoAAANvlIwLc2NvcmVfdGFibGWUfZSMDHNob3duX3Njb3Jlc5SPlCiMA0FVQ5SMAkNB
+lIwCRjGUjANNU0WUjAJSMpSMBFJNU0WUjAlQcmVjaXNpb26UjAZSZWNhbGyUjANNQUWUkHOMC19f
 dmVyc2lvbl9flEsBjBBjb250ZXh0X3NldHRpbmdzlF2UdS4=
 </properties>
 		<properties node_id="8" format="pickle">gASVYAYAAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMC2F1dG9fc2FtcGxllIiMEmNvbnRyb2xBcmVh

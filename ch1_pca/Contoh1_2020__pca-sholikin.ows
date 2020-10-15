@@ -20,11 +20,11 @@
 		<arrow id="1" start="(1014.0, 331.0)" end="(1000.0, 378.0)" fill="#C1272D" />
 		<arrow id="2" start="(313.00000000000006, 428.0)" end="(387.00000000000006, 489.0)" fill="#C1272D" />
 		<text id="3" type="text/plain" rect="(926.0, 293.0, 202.0, 42.0)" font-family="Sans Serif" font-size="16">Pilih 2 PC yang bagus</text>
-		<text id="4" type="text/plain" rect="(78.0, 235.0, 408.0, 179.0)" font-family="Sans Serif" font-size="16">Masukkan data
+		<text id="4" type="text/plain" rect="(78.0, 234.0, 408.0, 179.0)" font-family="Sans Serif" font-size="16">Masukkan data
 
 Link data: 
 
-https://raw.githubusercontent.com/mohammad-miftakhus-sholikin/pelatihan-2020-10-utan-ml/master/Data_2019__Sifat_fisik_pakan.csv</text>
+https://raw.githubusercontent.com/mohammad-miftakhus-sholikin/pelatihan-2020-ml/master/ch1_pca/Data_2019__Sifat_fisik_pakan.csv</text>
 		<text id="5" type="text/plain" rect="(549.0, 386.0, 164.0, 60.0)" font-family="Sans Serif" font-size="16">Liat Ukuran PCA</text>
 		<arrow id="6" start="(604.0, 681.0)" end="(511.0, 743.0)" fill="#C1272D" />
 		<text id="7" type="text/plain" rect="(423.0, 757.0, 150.0, 31.0)" font-family="Sans Serif" font-size="16">Klasifikasi hirarki</text>
