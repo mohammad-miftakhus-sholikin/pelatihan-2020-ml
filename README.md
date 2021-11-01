@@ -1,4 +1,4 @@
-# Pelatiahan 2020 Untan ML
+# Pengenalan machine learning dengan orange3
 
 Belajar _machine learning_ (ML) menggunakan [Orange3](https://orange.biolab.si/).
 
